@@ -1,0 +1,206 @@
+start_node,end_node,weight
+"Milojevic, Stasa","Asad, Abdul Moeed",0.42857142857142855
+"Milojevic, Stasa","Blundell Osorio, Melissa",0.4375
+"Milojevic, Stasa","Chen, Daoxin",0.3333333333333333
+"Milojevic, Stasa","Fashir, Mustafa",0.3333333333333333
+"Milojevic, Stasa","Golden, Oliver",0.3333333333333333
+"Milojevic, Stasa","Khan, Noverah",0.26666666666666666
+"Milojevic, Stasa","McNames, Megan",0.38461538461538464
+"Milojevic, Stasa","Parameswaran, Aarathi",0.375
+"Milojevic, Stasa","Risch, Fairman",0.3333333333333333
+"Milojevic, Stasa","Rosen, Ari",0.38461538461538464
+"Milojevic, Stasa","Saavedra, Belen",0.3333333333333333
+"Milojevic, Stasa","Shan, Cloris",0.42857142857142855
+"Milojevic, Stasa","Tang, Xiaoyue",0.3125
+"Milojevic, Stasa","Tarannum, Aanila Kishwar",0.35294117647058826
+"An, Juyoung","Blundell Osorio, Melissa",0.26666666666666666
+"An, Juyoung","Du, Nachuan",0.3
+"An, Juyoung","Khan, Noverah",0.25
+"An, Juyoung","Luby, Paean",0.36363636363636365
+"An, Juyoung","McNames, Megan",0.2727272727272727
+"An, Juyoung","Peng, Xinran",0.25
+"An, Juyoung","Rosen, Ari",0.2727272727272727
+"An, Juyoung","Tang, Xiaoyue",0.5454545454545454
+"An, Juyoung","Yu, Changhong",0.6666666666666666
+"An, Juyoung","Zhang, Xinyun",0.45454545454545453
+"An, Juyoung","Otenen, Ege",0.3333333333333333
+"Asad, Abdul Moeed","Blundell Osorio, Melissa",0.75
+"Asad, Abdul Moeed","Chen, Daoxin",0.2857142857142857
+"Asad, Abdul Moeed","Du, Nachuan",0.25
+"Asad, Abdul Moeed","Fashir, Mustafa",0.2857142857142857
+"Asad, Abdul Moeed","Golden, Oliver",0.2857142857142857
+"Asad, Abdul Moeed","Luby, Paean",0.4166666666666667
+"Asad, Abdul Moeed","McNames, Megan",0.3333333333333333
+"Asad, Abdul Moeed","Parameswaran, Aarathi",0.25
+"Asad, Abdul Moeed","Rosen, Ari",0.3333333333333333
+"Asad, Abdul Moeed","Saavedra, Belen",0.5
+"Asad, Abdul Moeed","Shan, Cloris",0.2857142857142857
+"Asad, Abdul Moeed","Tang, Xiaoyue",0.26666666666666666
+"Asad, Abdul Moeed","Tarannum, Aanila Kishwar",0.3125
+"Blundell Osorio, Melissa","Chen, Daoxin",0.4
+"Blundell Osorio, Melissa","Du, Nachuan",0.2857142857142857
+"Blundell Osorio, Melissa","Fashir, Mustafa",0.4
+"Blundell Osorio, Melissa","Golden, Oliver",0.5
+"Blundell Osorio, Melissa","Khan, Noverah",0.3333333333333333
+"Blundell Osorio, Melissa","Li, Feng",0.2857142857142857
+"Blundell Osorio, Melissa","Luby, Paean",0.42857142857142855
+"Blundell Osorio, Melissa","McNames, Megan",0.35714285714285715
+"Blundell Osorio, Melissa","Parameswaran, Aarathi",0.4375
+"Blundell Osorio, Melissa","Peng, Xinran",0.3333333333333333
+"Blundell Osorio, Melissa","Risch, Fairman",0.4
+"Blundell Osorio, Melissa","Rosen, Ari",0.5833333333333334
+"Blundell Osorio, Melissa","Saavedra, Belen",0.6153846153846154
+"Blundell Osorio, Melissa","Shan, Cloris",0.5
+"Blundell Osorio, Melissa","Tang, Xiaoyue",0.375
+"Blundell Osorio, Melissa","Tarannum, Aanila Kishwar",0.5
+"Blundell Osorio, Melissa","Yu, Changhong",0.25
+"Blundell Osorio, Melissa","Zhou, Shirui",0.35714285714285715
+"Blundell Osorio, Melissa","Zhu, Renee",0.2857142857142857
+"Chen, Daoxin","Du, Nachuan",0.5
+"Chen, Daoxin","Golden, Oliver",0.38461538461538464
+"Chen, Daoxin","Khan, Noverah",0.4166666666666667
+"Chen, Daoxin","Li, Feng",0.25
+"Chen, Daoxin","McNames, Megan",0.3333333333333333
+"Chen, Daoxin","Parameswaran, Aarathi",0.3333333333333333
+"Chen, Daoxin","Peng, Xinran",0.4166666666666667
+"Chen, Daoxin","Risch, Fairman",0.38461538461538464
+"Chen, Daoxin","Rosen, Ari",0.45454545454545453
+"Chen, Daoxin","Saavedra, Belen",0.2857142857142857
+"Chen, Daoxin","Shan, Cloris",0.5
+"Chen, Daoxin","Tang, Xiaoyue",0.46153846153846156
+"Chen, Daoxin","Yu, Changhong",0.4166666666666667
+"Chen, Daoxin","Zhang, Xinyun",0.38461538461538464
+"Chen, Daoxin","Zhu, Renee",0.25
+"Chen, Daoxin","Otenen, Ege",0.2727272727272727
+"Du, Nachuan","Fashir, Mustafa",0.25
+"Du, Nachuan","Khan, Noverah",0.2727272727272727
+"Du, Nachuan","Luby, Paean",0.2727272727272727
+"Du, Nachuan","McNames, Megan",0.3
+"Du, Nachuan","Risch, Fairman",0.36363636363636365
+"Du, Nachuan","Saavedra, Belen",0.25
+"Du, Nachuan","Shan, Cloris",0.36363636363636365
+"Du, Nachuan","Tarannum, Aanila Kishwar",0.2857142857142857
+"Du, Nachuan","Yu, Changhong",0.5555555555555556
+"Du, Nachuan","Zhang, Xinyun",0.36363636363636365
+"Du, Nachuan","Zhu, Renee",0.3333333333333333
+"Fashir, Mustafa","Parameswaran, Aarathi",0.5384615384615384
+"Fashir, Mustafa","Risch, Fairman",0.6363636363636364
+"Fashir, Mustafa","Rosen, Ari",0.3333333333333333
+"Fashir, Mustafa","Shan, Cloris",0.38461538461538464
+"Fashir, Mustafa","Tang, Xiaoyue",0.26666666666666666
+"Fashir, Mustafa","Tarannum, Aanila Kishwar",0.6153846153846154
+"Fashir, Mustafa","Zhang, Xinyun",0.2857142857142857
+"Fashir, Mustafa","Zhou, Shirui",0.45454545454545453
+"Fashir, Mustafa","Zhu, Renee",0.25
+"Golden, Oliver","Khan, Noverah",0.4166666666666667
+"Golden, Oliver","Li, Feng",0.5
+"Golden, Oliver","Parameswaran, Aarathi",0.25
+"Golden, Oliver","Peng, Xinran",0.4166666666666667
+"Golden, Oliver","Rosen, Ari",0.45454545454545453
+"Golden, Oliver","Saavedra, Belen",0.5
+"Golden, Oliver","Shan, Cloris",0.38461538461538464
+"Golden, Oliver","Tang, Xiaoyue",0.35714285714285715
+"Golden, Oliver","Zhu, Renee",0.25
+"Golden, Oliver","Otenen, Ege",0.4
+"Khan, Noverah","McNames, Megan",0.25
+"Khan, Noverah","Parameswaran, Aarathi",0.35714285714285715
+"Khan, Noverah","Peng, Xinran",0.3333333333333333
+"Khan, Noverah","Risch, Fairman",0.3076923076923077
+"Khan, Noverah","Rosen, Ari",0.5
+"Khan, Noverah","Saavedra, Belen",0.4166666666666667
+"Khan, Noverah","Shan, Cloris",0.4166666666666667
+"Khan, Noverah","Tang, Xiaoyue",0.2857142857142857
+"Khan, Noverah","Tarannum, Aanila Kishwar",0.3333333333333333
+"Khan, Noverah","Yu, Changhong",0.3333333333333333
+"Khan, Noverah","Zhou, Shirui",0.25
+"Khan, Noverah","Zhu, Renee",0.4
+"Khan, Noverah","Otenen, Ege",0.3
+"Li, Feng","Luby, Paean",0.2727272727272727
+"Li, Feng","McNames, Megan",0.3
+"Li, Feng","Peng, Xinran",0.4
+"Li, Feng","Risch, Fairman",0.25
+"Li, Feng","Rosen, Ari",0.3
+"Li, Feng","Saavedra, Belen",0.25
+"Li, Feng","Shan, Cloris",0.25
+"Li, Feng","Tang, Xiaoyue",0.3333333333333333
+"Li, Feng","Zhang, Xinyun",0.25
+"Li, Feng","Otenen, Ege",0.375
+"Luby, Paean","McNames, Megan",0.25
+"Luby, Paean","Parameswaran, Aarathi",0.26666666666666666
+"Luby, Paean","Peng, Xinran",0.3333333333333333
+"Luby, Paean","Rosen, Ari",0.25
+"Luby, Paean","Saavedra, Belen",0.4166666666666667
+"Luby, Paean","Tang, Xiaoyue",0.38461538461538464
+"Luby, Paean","Tarannum, Aanila Kishwar",0.25
+"Luby, Paean","Yu, Changhong",0.3333333333333333
+"Luby, Paean","Zhang, Xinyun",0.3076923076923077
+"Luby, Paean","Zhu, Renee",0.2727272727272727
+"McNames, Megan","Parameswaran, Aarathi",0.38461538461538464
+"McNames, Megan","Peng, Xinran",0.36363636363636365
+"McNames, Megan","Risch, Fairman",0.45454545454545453
+"McNames, Megan","Rosen, Ari",0.4
+"McNames, Megan","Saavedra, Belen",0.3333333333333333
+"McNames, Megan","Shan, Cloris",0.3333333333333333
+"McNames, Megan","Tang, Xiaoyue",0.3076923076923077
+"McNames, Megan","Tarannum, Aanila Kishwar",0.26666666666666666
+"McNames, Megan","Yu, Changhong",0.36363636363636365
+"McNames, Megan","Otenen, Ege",0.3333333333333333
+"Parameswaran, Aarathi","Peng, Xinran",0.46153846153846156
+"Parameswaran, Aarathi","Risch, Fairman",0.5384615384615384
+"Parameswaran, Aarathi","Rosen, Ari",0.5
+"Parameswaran, Aarathi","Saavedra, Belen",0.3333333333333333
+"Parameswaran, Aarathi","Shan, Cloris",0.42857142857142855
+"Parameswaran, Aarathi","Tang, Xiaoyue",0.3125
+"Parameswaran, Aarathi","Tarannum, Aanila Kishwar",0.6428571428571429
+"Parameswaran, Aarathi","Zhang, Xinyun",0.25
+"Parameswaran, Aarathi","Zhou, Shirui",0.2857142857142857
+"Parameswaran, Aarathi","Zhu, Renee",0.3076923076923077
+"Peng, Xinran","Risch, Fairman",0.3076923076923077
+"Peng, Xinran","Rosen, Ari",0.5
+"Peng, Xinran","Saavedra, Belen",0.3076923076923077
+"Peng, Xinran","Shan, Cloris",0.3076923076923077
+"Peng, Xinran","Tang, Xiaoyue",0.5
+"Peng, Xinran","Tarannum, Aanila Kishwar",0.25
+"Peng, Xinran","Zhang, Xinyun",0.4166666666666667
+"Peng, Xinran","Zhu, Renee",0.2727272727272727
+"Peng, Xinran","Otenen, Ege",0.3
+"Risch, Fairman","Rosen, Ari",0.45454545454545453
+"Risch, Fairman","Saavedra, Belen",0.2857142857142857
+"Risch, Fairman","Shan, Cloris",0.6363636363636364
+"Risch, Fairman","Tarannum, Aanila Kishwar",0.5
+"Risch, Fairman","Yu, Changhong",0.3076923076923077
+"Risch, Fairman","Zhang, Xinyun",0.2857142857142857
+"Risch, Fairman","Zhou, Shirui",0.3333333333333333
+"Risch, Fairman","Zhu, Renee",0.25
+"Rosen, Ari","Saavedra, Belen",0.45454545454545453
+"Rosen, Ari","Shan, Cloris",0.6
+"Rosen, Ari","Tang, Xiaoyue",0.4166666666666667
+"Rosen, Ari","Tarannum, Aanila Kishwar",0.35714285714285715
+"Rosen, Ari","Yu, Changhong",0.25
+"Rosen, Ari","Zhou, Shirui",0.4
+"Rosen, Ari","Zhu, Renee",0.3
+"Rosen, Ari","Otenen, Ege",0.3333333333333333
+"Saavedra, Belen","Shan, Cloris",0.38461538461538464
+"Saavedra, Belen","Tarannum, Aanila Kishwar",0.3125
+"Saavedra, Belen","Zhu, Renee",0.25
+"Shan, Cloris","Tang, Xiaoyue",0.26666666666666666
+"Shan, Cloris","Tarannum, Aanila Kishwar",0.5
+"Shan, Cloris","Yu, Changhong",0.4166666666666667
+"Shan, Cloris","Zhang, Xinyun",0.2857142857142857
+"Shan, Cloris","Zhou, Shirui",0.45454545454545453
+"Shan, Cloris","Zhu, Renee",0.25
+"Tang, Xiaoyue","Tarannum, Aanila Kishwar",0.29411764705882354
+"Tang, Xiaoyue","Yu, Changhong",0.5
+"Tang, Xiaoyue","Zhang, Xinyun",0.5833333333333334
+"Tang, Xiaoyue","Otenen, Ege",0.5
+"Tarannum, Aanila Kishwar","Yu, Changhong",0.25
+"Tarannum, Aanila Kishwar","Zhang, Xinyun",0.3125
+"Tarannum, Aanila Kishwar","Zhou, Shirui",0.35714285714285715
+"Tarannum, Aanila Kishwar","Zhu, Renee",0.2857142857142857
+"Yu, Changhong","Zhang, Xinyun",0.5454545454545454
+"Yu, Changhong","Zhou, Shirui",0.25
+"Yu, Changhong","Zhu, Renee",0.2727272727272727
+"Yu, Changhong","Otenen, Ege",0.3
+"Zhang, Xinyun","Zhou, Shirui",0.3333333333333333
+"Zhang, Xinyun","Zhu, Renee",0.36363636363636365
+"Zhou, Shirui","Zhu, Renee",0.4444444444444444
